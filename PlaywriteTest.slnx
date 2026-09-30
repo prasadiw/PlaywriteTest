@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../../Downloads/PageObjectModelPW/PageObjectModelPW/PageObjectModelPW.csproj" />
+  <Project Path="../../../Downloads/PlaywrightTesting (1)/PlaywrightTesting/PlaywrightTesting.csproj" />
+  <Project Path="../../../Downloads/SpecFlowLearning (1)/SpecFlowLearning/SpecFlowLearning.csproj" />
+  <Project Path="PlaywriteTest/PlaywriteTest.csproj" />
+</Solution>
